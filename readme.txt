@@ -6,3 +6,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Text Creating branch again.
 Text make branch again.
+It is the second day of learning git!
