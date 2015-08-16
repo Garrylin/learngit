@@ -9,9 +9,6 @@ Text make branch again.
 It is the second day of learning git!
 Creating a new branch is quick and simple.
 No fast text.
-<<<<<<< HEAD
 Git tranning day 2.
 Training push again.
-=======
 issue bug text.
->>>>>>> dev
