@@ -12,3 +12,5 @@ No fast text.
 Git tranning day 2.
 Training push again.
 issue bug text.
+
+yeal-cancle text.
